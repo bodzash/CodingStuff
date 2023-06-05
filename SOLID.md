@@ -22,3 +22,15 @@ Composition.
 
 ## Interface segregation
 
+"No code should be forced to depend on methods it does not use."
+
+Interfaces and abstract classes.
+
+## Dependency conversion
+
+- High-level modules should not import anything from low-level modules. Both should depend on abstractions (e.g., interfaces).
+- Abstractions should not depend on details. Details (concrete implementations) should depend on abstractions.
+
+Adapter pattern.
+Code depends around a wrapper class and not the implementation classes.
+Renderer -> DX12Renderer, OpenGLRenderer, VulkanRenderer
