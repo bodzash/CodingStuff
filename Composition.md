@@ -1,2 +1,2 @@
-# Composiiton vs Inheritance
+# Compositon vs Inheritance
 
