@@ -86,3 +86,30 @@ Feature that is being currently testing
 
 ### Done
 Completed tasks.
+
+## Scrum ceremonies
+
+### Sprint planning
+Happens before a sprint starts.
+Takes 1-2 hours, for a one- or two-week sprint.
+
+During the sprint planning session, the team consults the backlog, which is a list of all desired features and bug fixes that the team can select from as they determine what to accomplish during the sprint.
+
+### Daily stand up
+Happens daily.
+Takes 15 minutes.
+
+These stand-up meetings are informal gatherings designed to help identify any roadblocks and allow team members to describe their current tasks, goals, and obstacles.
+
+### Sprint review
+Happens at the end of the sprint.
+Takes who knows how long.
+
+The Scrum team, Scrum Master, and product owner meet with other teams, managers, and executives to showcase what they accomplished during the sprint.
+The sprint review should last as long as necessary to fully demonstrate the team’s new technology and have a productive conversation with stakeholders. After the sprint review, Scrum teams move on to the sprint retrospective.
+
+### Sprint retrospective
+Happens after sprint Review.
+Takes who knows how long.
+
+Using feedback from stakeholders and the Scrum Master, the team should identify how it can improve its processes to have more effective sprints in the future. Agility and adaptability are core values of the Scrum process, so teams should strive to identify potential improvements without blame or judgment.
