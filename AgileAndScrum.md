@@ -8,9 +8,9 @@ Software is a combination of features (functionalities)
 ### Phases
 Plan -> Implement -> Test -> Review
 
-Functionality 1 -> Plan -> Implement -> Test -> Review
-Functionality 2 -> Plan -> Implement -> Test -> Review
-Functionality 3 -> Plan -> Implement -> Test -> Review
+Functionality 1 - Plan - Implement - Test - Review
+Functionality 2 - Plan - Implement - Test - Review
+Functionality 3 - Plan - Implement - Test - Review
 
 If the Review is satisfactory we add it to the Build (code base), if not restart the phase for the Feature.
 
@@ -27,11 +27,6 @@ What is required to achieve the Epic?
 ### Task
 Technical.
 Tasks required to fulfill those requirements (Story).
-
-                  -> Story -> Task
-Epic -> Feature <           -> Task
-                  -> Story <
-                            -> Task
 
 ## Scrum Roles
 
