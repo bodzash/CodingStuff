@@ -1,0 +1,4 @@
+# Imperative programming
+
+
+# Declarative programming
