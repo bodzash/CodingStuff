@@ -108,3 +108,39 @@ Happens after sprint Review.
 Takes who knows how long.
 
 Using feedback from stakeholders and the Scrum Master, the team should identify how it can improve its processes to have more effective sprints in the future. Agility and adaptability are core values of the Scrum process, so teams should strive to identify potential improvements without blame or judgment.
+
+## Definition of Done
+DoD consists of 3 main components:
+- Business or Functional requirements
+- Quality
+- Non-Functional Requirements
+
+### Functional requirements
+This is the standard business requirement that is assumed to carry value in the Product as functionality and this can also be written in the form of User Stories and it carries acceptance criteria as well.
+
+- Should authenticate user
+- Should be able to search for flight
+- Should be able to pay with PayPal
+- Confirm payment
+- Add miles/kilometers to passanger profile
+
+### Quality requirements
+Quality is largely aligned to the coding language/Rapid Application Development (RAD)/technical tools to build the Product. Quality is owned by the Development team to ensure that the product is of the maximum quality. These quality standards can be subjective, and also data-driven.
+
+- Unit Test Coverage
+- Maintainability Index
+- Technical Debt
+- Design Principles
+
+### Non-Functional requirements
+These are the standard characteristics or attributes of the Product that might not add direct business value but without which your Product can’t move. These quality assurance attributes of the Product can be considered under the quality component too.
+
+- Availability
+- Maintainability
+- Performance
+- Reliability
+- Scalability
+- Security
+- Usability
+- Compliance/Regulatory
+- Legal
